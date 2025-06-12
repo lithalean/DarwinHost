@@ -1,6 +1,6 @@
 # DarwinHost
 
-![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/lithalean/GameEngine/main/docs/screenshots/editor_jenova_demo_1920x1080.jpg)
+![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/lithalean/DarwinHost/main/docs/screenshots/darwin_host_1920x1080.jpg)
 
 
 ```
